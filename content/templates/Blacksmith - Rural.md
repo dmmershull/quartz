@@ -1,11 +1,4 @@
----
-title: "Stern Iron Smithing"
----
 
-Owner: [Armora Sternstand](People%20of%20Note/Armora%20Sternstand.md)
-
-Shop Description: 
-# Inventory
 
 # Armor
 

@@ -22,17 +22,6 @@ Places to Shop:
 Places of Worship:
  - There is a shrine to Collis just outside of town. 
  
-People of Note:
- - [Tordren Broheron](People%20of%20Note/Tordren%20Broheron.md) - General Good shopkeep (Dwarf, male)
- - [Armora Sternstand](People%20of%20Note/Armora%20Sternstand.md) - Blacksmith (Dwarf, female)
- - [Ilathi Nehrik](People%20of%20Note/Ilathi%20Nehrik.md) - Alchemist (Goliath, female)
- - [Rosina Nehrik](People%20of%20Note/Rosina%20Nehrik.md) - Herbalist (Human, female)
- - [Jenryn Starkpass](People%20of%20Note/Jenryn%20Starkpass.md) - Mountain Guide Director (Dwarf, female)
- - [Grandain Bloodroar](People%20of%20Note/Grandain%20Bloodroar.md) - Mining Captain (Dwarf, male)
- - [Ivar Valen](People%20of%20Note/Ivar%20Valen.md) - Trade Ambassodor (Human, male)
- - [Dolgrun Cangireg](People%20of%20Note/Dolgrun%20Cangireg.md) - Mayor (Dwarf, male)
- - [Brennyss Tetgek](People%20of%20Note/Brennyss%20Tetgek.md) - Inkeeper (Dwarf, Female)
- 
 Religion:
  - [Collis](Religions/Gods/Collis.md)
 
