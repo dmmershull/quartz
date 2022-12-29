@@ -1,3 +1,6 @@
+---
+title: "Eastport"
+---
 
 Hunting and fishing town. Sends trade up to [[Junction]]
 

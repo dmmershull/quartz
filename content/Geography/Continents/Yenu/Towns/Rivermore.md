@@ -1,3 +1,7 @@
+---
+title: "Rivermore"
+---
+
 Sits on the West coast under the mountains and above the forest. 
 
 Main activities are mining and hunting. 

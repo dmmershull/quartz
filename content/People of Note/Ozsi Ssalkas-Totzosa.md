@@ -1,3 +1,7 @@
+---
+title: "Ozsi Ssalkas-Totzosa"
+---
+
 **Deceased**
 
 Age: 31

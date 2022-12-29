@@ -1,3 +1,7 @@
+---
+title: "House Monterac"
+---
+
 Home house of player [[Vifjari Monterac]].
  
 ---  

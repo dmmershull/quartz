@@ -1,3 +1,7 @@
+---
+title: "Character Name - Dimitri"
+---
+
 Will Probably play a sorcerer
 
 

@@ -1,3 +1,6 @@
+---
+title: "Rosina Nehrik"
+---
 
 ## Party Attitude: Neutral (0)
 

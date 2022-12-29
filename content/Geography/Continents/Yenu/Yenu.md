@@ -1,3 +1,7 @@
+---
+title: "Yenu"
+---
+
 ## Cities
 ### [[Gartmouth]]
 ### [[Huvarm]]

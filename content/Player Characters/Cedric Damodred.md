@@ -1,3 +1,7 @@
+---
+title: "Cedric Damodred"
+---
+
 PC: Jon
 Paladin
 

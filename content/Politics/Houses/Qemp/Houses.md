@@ -1,3 +1,7 @@
+---
+title: "Houses"
+---
+
  - [[House Totzosa]]
  - [[House Ssalkas]]
  - [[House Estohsa]]

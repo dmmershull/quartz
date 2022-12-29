@@ -1,3 +1,6 @@
+---
+title: "Lasumah"
+---
 
 Sits north of [[Qemp]]
 

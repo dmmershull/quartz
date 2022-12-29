@@ -1,3 +1,7 @@
+---
+title: "Young Crime"
+---
+
 [[Rathello Rat McDiggers]]
 
 ## Robbery at the General Store

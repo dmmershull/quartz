@@ -1,3 +1,7 @@
+---
+title: "Collis"
+---
+
 [[Munda]]
 Icon of Mountains
 

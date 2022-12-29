@@ -1,3 +1,7 @@
+---
+title: "Primal Void"
+---
+
 The universe began in a state known as the primal void. This void was both endless and formless with two abstract entities of order and chaos. 
 
 These two entities were deeply in love. However they were not able to be together as they were. In order to be together they would have to cast off their abstract forms and become the first material deities. 

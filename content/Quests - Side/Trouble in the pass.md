@@ -1,3 +1,7 @@
+---
+title: "Trouble in the pass"
+---
+
 After shortly arriving in [[Everpass]] adventurers can hear of recent troubles in the mountain pass. A guide recently returned to town bloodied in the middle of the night claiming that something or someone attacked him and his party while passing through the mountains. 
 
 The adventurers may take this quest from any of the following:

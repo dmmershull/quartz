@@ -1,3 +1,7 @@
+---
+title: "House Estohsa"
+---
+
 noble house, leads Qemp's military efforts
 
 House Sigil:

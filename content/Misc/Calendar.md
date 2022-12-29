@@ -1,3 +1,7 @@
+---
+title: "Calendar"
+---
+
 https://donjon.bin.sh/fantasy/calendar/
 How Many Months in a year? 8
 How Many Days per week? 9

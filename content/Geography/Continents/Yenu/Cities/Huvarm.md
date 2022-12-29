@@ -1,3 +1,7 @@
+---
+title: "Huvarm"
+---
+
 City of Mages
 Home of The Inquisition
 

@@ -1,3 +1,7 @@
+---
+title: "Zolaxis"
+---
+
 Ruined city. 
 
 Zolaxis was once the center of the Yuvalan empire. 

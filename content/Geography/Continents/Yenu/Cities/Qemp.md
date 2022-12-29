@@ -1,3 +1,7 @@
+---
+title: "Qemp"
+---
+
 Qemp is the only city on the western cost of Yenu. 
 
 Qemp is most well known for being a cultural center of enlightenment. The university is the best in the world for the study of non-magical affairs. 
