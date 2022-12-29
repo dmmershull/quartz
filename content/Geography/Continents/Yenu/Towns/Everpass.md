@@ -30,3 +30,8 @@ Economy:
  - Trade
  - Guides through the Pass
 
+%%
+People of Note
+- Tordrin Broheron
+%%
+
