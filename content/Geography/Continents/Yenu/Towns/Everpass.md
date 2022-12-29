@@ -40,5 +40,4 @@ Economy:
  - Mining
  - Trade
  - Guides through the Pass
-Possible Quests
-- [Trouble in the pass](Quests%20-%20Side/Trouble%20in%20the%20pass.md)
+
