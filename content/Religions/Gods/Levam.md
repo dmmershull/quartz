@@ -2,5 +2,5 @@
 title: "Levam"
 ---
 
-[[Nebris]]
+[Nebris](Religions/Gods/Nebris.md)
 Icon of Sleep

@@ -2,5 +2,5 @@
 title: "Nex"
 ---
 
-[[Vis]]
+[Vis](Religions/Gods/Vis.md)
 Icon of Murder

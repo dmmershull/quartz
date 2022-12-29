@@ -2,5 +2,5 @@
 title: "Idica"
 ---
 
-[[Nesis]] and [[Cognent]]
+[Nesis](Religions/Gods/Nesis.md) and [Cognent](Religions/Gods/Cognent.md)
 Icon of Medicine

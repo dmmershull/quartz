@@ -2,6 +2,6 @@
 title: "Imalia"
 ---
 
-[[Munda]]
+[Munda](Religions/Gods/Munda.md)
 
 Icon of Beasts

@@ -2,5 +2,5 @@
 title: "Entae"
 ---
 
-[[Munda]]
+[Munda](Religions/Gods/Munda.md)
 Icon of Plants

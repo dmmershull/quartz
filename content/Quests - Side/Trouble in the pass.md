@@ -2,14 +2,14 @@
 title: "Trouble in the pass"
 ---
 
-After shortly arriving in [[Everpass]] adventurers can hear of recent troubles in the mountain pass. A guide recently returned to town bloodied in the middle of the night claiming that something or someone attacked him and his party while passing through the mountains. 
+After shortly arriving in [Everpass](Geography/Continents/Yenu/Towns/Everpass.md) adventurers can hear of recent troubles in the mountain pass. A guide recently returned to town bloodied in the middle of the night claiming that something or someone attacked him and his party while passing through the mountains. 
 
 The adventurers may take this quest from any of the following:
- - [[Jenryn Starkpass]], Mountain Guide Director
- - [[Dolgrun Cangireg]], Mayor
+ - [Jenryn Starkpass](People%20of%20Note/Jenryn%20Starkpass.md), Mountain Guide Director
+ - [Dolgrun Cangireg](People%20of%20Note/Dolgrun%20Cangireg.md), Mayor
 Both Jenryn and Dolrun will request some evidence pertaining to the nature of the creature and assurance that the problem has been dealth with. 
 
-If they do not run into either Jenryn or Dolgrun [[Brennyss Tetgek]], the inn keeper, will tell them about the issue and send them towards one of the two. 
+If they do not run into either Jenryn or Dolgrun [Brennyss Tetgek](People%20of%20Note/Brennyss%20Tetgek.md), the inn keeper, will tell them about the issue and send them towards one of the two. 
 
 The adventureres will gain favor and perks in everpass depending on who they complete the quest for. 
  - Jenryn: If they complete this quest for Jenryn they will receive favor with Jenryn and the mountain guides. Jenryn will pay the party 150 gold for their trouble. The party will also receive mountain guides at half-price in the future. 
@@ -38,10 +38,10 @@ Search for the source
 - Survival Check (DC 18)
 
 Camping for the night
-- If the party camps for the night they will be attacked by 4 [[Young Kruthik| Young Kruthiks]]
+- If the party camps for the night they will be attacked by 4 [ Young Kruthiks](Young%20Kruthik)
 - Once the encounter is complete use the rolls from search for the attacked camp to continue. 
 
 The Cave
  - Inside the cave they will find the bodies of the travelers as well as several others. 
  - Inside the cave is a small Kruthik hive attempting to establish a new nest. 
-![[Kruthik Nest.png]]
+![Kruthik Nest](Attatchments/Kruthik%20Nest.png)

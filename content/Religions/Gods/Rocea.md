@@ -2,5 +2,5 @@
 title: "Rocea"
 ---
 
-[[Munda]]
+[Munda](Religions/Gods/Munda.md)
 Icon of the sea

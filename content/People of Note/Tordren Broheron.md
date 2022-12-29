@@ -21,7 +21,7 @@ title: "Tordren Broheron"
 | Nationality     |           |
 
 ## Stat Block
-![[commoner_stat_block.png]]
+![commoner_stat_block](Attatchments/commoner_stat_block.png)
 ## TODO
 
 - [ ] Update Party Attitude Tordren Broheron

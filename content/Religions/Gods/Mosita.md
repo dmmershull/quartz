@@ -2,6 +2,6 @@
 title: "Mosita"
 ---
 
-[[Nesis]] and [[Munda]]
+[Nesis](Religions/Gods/Nesis.md) and [Munda](Religions/Gods/Munda.md)
 
 Icon of Beauty

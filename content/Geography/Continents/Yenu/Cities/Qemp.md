@@ -12,7 +12,7 @@ Qemp is disliked by many other states for its like of devotion to wizadry and ar
 
 
 How Many noble houses in Qemp? 5
- - [[Houses]]
+ - [Houses](Politics/Houses/Qemp/Houses.md)
 
 
 
@@ -30,10 +30,10 @@ Political Persuasion:
 
 
 City Relations:
- - [[Gartmouth]]: Citizens of Qemp generally dislike those from Gartmouth. Resentment is held for the perceived injustice against the lord Oszi. Tensions are held at bay by the railroad trade route that connects them to the eastern coast. 
- - [[Huvarm]]: Citizens generally dislike those from Huvarm for their association with Gartmouth. Citizens also view those from Huvarm as bland compared to the academics and artists of Qemp. 
- - [[Jurak]]: Qemp is generally diplomatic with Jurak as its main trade partner. 
- - [[Peventon]]: Qemp is neutral to Peventon. 
+ - [Gartmouth](Geography/Continents/Yenu/Cities/Gartmouth.md): Citizens of Qemp generally dislike those from Gartmouth. Resentment is held for the perceived injustice against the lord Oszi. Tensions are held at bay by the railroad trade route that connects them to the eastern coast. 
+ - [Huvarm](Geography/Continents/Yenu/Cities/Huvarm.md): Citizens generally dislike those from Huvarm for their association with Gartmouth. Citizens also view those from Huvarm as bland compared to the academics and artists of Qemp. 
+ - [Jurak](Geography/Continents/Yenu/Cities/Jurak.md): Qemp is generally diplomatic with Jurak as its main trade partner. 
+ - [Peventon](Geography/Continents/Yenu/Cities/Peventon.md): Qemp is neutral to Peventon. 
 
 
 ---

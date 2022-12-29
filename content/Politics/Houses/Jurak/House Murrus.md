@@ -2,7 +2,7 @@
 title: "House Murrus"
 ---
 
-Worships [[Ornax]], Icon of the forge
+Worships [Ornax](Religions/Gods/Ornax.md), Icon of the forge
 
 
 ---

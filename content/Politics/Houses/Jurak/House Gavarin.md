@@ -2,7 +2,7 @@
 title: "House Gavarin"
 ---
 
-Worships [[Rocea]], Icon of the Sea
+Worships [Rocea](Religions/Gods/Rocea.md), Icon of the Sea
 
 
 ---

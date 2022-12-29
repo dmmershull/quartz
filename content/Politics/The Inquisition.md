@@ -2,4 +2,4 @@
 title: "The Inquisition"
 ---
 
-Based in [[Huvarm]]
+Based in [Huvarm](Geography/Continents/Yenu/Cities/Huvarm.md)

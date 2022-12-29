@@ -5,5 +5,5 @@ enableToc: false
 
 
 # Gods
-- [[Religions/Gods]]
+- [Gods](Religions/Gods.md)
 

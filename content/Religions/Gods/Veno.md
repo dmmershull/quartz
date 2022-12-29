@@ -2,6 +2,6 @@
 title: "Veno"
 ---
 
-[[Munda]] and [[Vis]]
+[Munda](Religions/Gods/Munda.md) and [Vis](Religions/Gods/Vis.md)
 
 Icon of The Hunt

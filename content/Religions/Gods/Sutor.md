@@ -2,5 +2,5 @@
 title: "Sutor"
 ---
 
-[[Levam]] and [[Vis]]
+[Levam](Religions/Gods/Levam.md) and [Vis](Religions/Gods/Vis.md)
 Icon of nightmares
