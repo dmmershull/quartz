@@ -1,0 +1,39 @@
+- What happened to the dragons?
+- The Shadow runner
+	- The original shadow runner is Ozsi, however there are now more than a dozen.
+	- The archon of necromancy taugh Ozsi a ritual to turn any sorcerer or non sorcerer into a shadow sorcerer. 
+	- He has been using this to conscript people into his small army
+	- The goal is to use Jurak as a northern foothold to stand against Huvarm and Gartmouth
+	- Their primary objective is to turn the people of Jurak against the Inquisition and in favor of sorcerers
+		- This has already been fairly successful in Edgemont and Grave Hollow where they have returned resources the Inquisition confiscated from people there. 
+		- The people refuse to speak to any inquisitors and will round up a militia against inquisitor occupation. 
+- Why did the archon create the shadow runner?
+	- The gate needs to be opened to restore balance
+		- The closing of the material plane has disrupted its balance, planar energies are meant to be able to flow in and out of each plane
+		- Without the ability to flow outwards, the barrier is acting like an echo chamber and amplifying different planar energies. The effect of this has not been noticed yet but if the archon is right effects will begin to manifest soon
+		- The souls of the dead have not been able to leave this plane. Every person who has died since the cataclysm has been unable to move on. This build up of passive undead presense in the realm could lead to a catastrophic necromantic anomyly 
+	- We need to be prepared when the gate is opened
+		- Something is pushing against the barrier, she has seen it when she has astral projected into the etheral plan. 
+		- The archon has reason to believe that the cataclysm was not an accident and was not malicious. Something dangerous posed an immense threat to the entire realm that we were not prepared for. In an act of self preservation the gates of zolaxis were destroyed, releasing an immense amount of energy and sealing the realm. 
+		- The archon is unsure whether the zolaxians knew the long term effects of this action or had hoped the break the seal at a later date. Either way, their intention for what should happen after this is unknown. 
+	- Why has te archon not come forward with the evidence she has?
+- Who presented the idea that sorcerers caused the cataclysm?
+	- Why did they do this?
+		- This academic was victim to what will later be referred to as a planar resonance. The echoing essence of the far realms 
+		- this resonance corrupted the academics mind, creating a sort of half-illithid. This academic has used his psionic abilities to inflitrate the council of Huvarm and inspire the inquisition
+	- Why Sorcerers?
+		- The evidence found by the academic pointed to the face that the cataclysm was accomplished by combining the essence of a group (One for each plane of existence)of sorcerers, theorized that each had reached their full potential. 
+		- In theory the same could be done to undo the seal open the reaml back up to the multiverse
+	- Why reopen the realm?
+		- due to the abberrant corruption, this academic want to open up the plane to continue the illithid conquest. 
+	- Are they still Alive?
+		- probably, this discovery was a little over 50 years ago
+	- What evidence did they present?
+		- artifacts
+		- documents
+	- Can this evidence be found?
+		- The evidence is held by the council of Huvarm inside of a vault. 
+- What happened between the Cataclysm and the start of the inquisition?
+- What does the history of Zolaxis look like?
+- What was there before the Zolaxian empire?
+- When were there warforged? How many of them? What were they used for?

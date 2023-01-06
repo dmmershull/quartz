@@ -1,0 +1,10 @@
+---
+title: "Edgemont"
+---
+
+
+
+---
+Tags:
+- #Jurak 
+---
