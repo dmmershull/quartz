@@ -1,0 +1,1 @@
+When a ranger is affected by the ritual used to create a shadow runner, they become a gloomstalker. This represents a connection to a darker world. 
