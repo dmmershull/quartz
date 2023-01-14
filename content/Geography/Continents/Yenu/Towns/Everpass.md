@@ -30,8 +30,17 @@ Economy:
  - Trade
  - Guides through the Pass
 
-%%
-People of Note
-- Tordrin Broheron
-%%
 
+---
+People of Note:
+ - [[Tordren Broheron]] - General Good shopkeep (Dwarf, male)
+ - [[Armora Sternstand]] - Blacksmith (Dwarf, female)
+ - [[Ilathi Nehrik]] - Alchemist (Goliath, female)
+ - [[Rosina Nehrik]] - Herbalist (Human, female)
+ - [[Jenryn Starkpass]] - Mountain Guide Director (Dwarf, female)
+ - [[Grandain Bloodroar]] - Mining Captain (Dwarf, male)
+ - [[Ivar Valen]] - Trade Ambassodor (Human, male)
+ - [[Dolgrun Cangireg]] - Mayor (Dwarf, male)
+ - [[Brennyss Tetgek]] - Inkeeper (Dwarf, Female)
+ ---
+ 

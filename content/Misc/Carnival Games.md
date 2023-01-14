@@ -1,0 +1,60 @@
+
+# Game Ideas
+- Archery contest
+	- #task come up with archert contest vendor
+	- #task come up with rules
+	- #task come up with competitors
+	- #task come up with prize
+- Shooting contest
+	- #task come up with contest vendor
+	- #task come up with rules
+	- #task come up with competitors
+	- #task come up with prize
+- Dunk throw
+	- #task come up with vendors
+	- #task come up with dunkee
+	- #task come up with prize
+- Eating contest
+	- #task come up with vendor
+	- #task come up with competitiors
+	- #task come up with food 
+	- #task come up with prize
+- Arm wrestling
+	- #task come up with vendor
+	- #task come up with champion
+	- #task come up with prize
+- Catch the Pig
+	- #task come up with vendor
+	- #task come up with prize
+- Sparring Ring
+	- #task come up with vendor
+	- #task come up with champion
+	- #task come up with prize
+
+# Vendor Ideas
+- Fortune Teller
+	- #task create fortune teller
+	- #task create a fortune for each of the party members
+- Face Painter
+	- #task come up with vendor
+- Food and Drink vendors
+	- #task come up with local carnival foods and vendors
+- Oddities tent
+	- #task come up with traveling oddities guy
+	- #task come up with oddities
+- Puppet Show
+	- #task come up with a puppet show, should be about folklore or a local historical event
+- Town Pageant
+	- #task Come up with rules and events for a pageant
+	- #task come up with contestants for a pageant
+- Florist
+	- #task create a florist/secret druid
+- Toy vendor
+	- #task come up with toys
+	- #task come up with vendor
+- Bards
+	- #task create a traveling bard
+- Magician 
+	- #task Create a traveling magician
+- Caricature artist
+	- #task come up with caricature artist

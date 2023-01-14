@@ -9,9 +9,9 @@ title: "Rosina Nehrik"
 | Descriptor      | Value     |
 | --------------- | --------- |
 | Name            | Rosina Nehrik |
-| Race            |           |
+| Race            |   Dwarf        |
 | Age             |           |
-| Sex             |           |
+| Sex             |     Female      |
 | Alignment       |           |
 | Skin Tone       |           |
 | Hair Color      |           |

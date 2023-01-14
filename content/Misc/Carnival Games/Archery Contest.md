@@ -1,0 +1,20 @@
+Rules:
+- There are three rounds to the competition, any amount of competitors can participate in round 1. At the end of each round the bottom half of competitors are knocked out. In the last round only the highest scoring archer wins. If there is a tie for the win, only those that have tied will participate in additional rounds to determine the winner. 
+- Scoring Points
+	- 1 Point: the player hits the AC of the target
+	- 2 Points: exceed the AC by 4 and hit the middle ring
+	- 3 Points: exceed the AC by 8 and hit the bullseye
+- Rounds
+	- Round 1
+		- Target AC: 12
+	- Round 2
+		- Target AC: 15
+	- Round 3
+		- Target AC: 18
+- Prize
+	- The prize for this competition is one of the following
+		- +1 crossbow 
+		- Experimental crossbow: on a critical success fire a second bolt, on a critical fail fire one bolt at yourself. 
+		- Grappling cross bow: a normal cross bow with a real to be used with a grappling hook. 
+- Out of Contest
+	- For a silver, anyone can practice with a quiver of 20 arrows and a shortbow
