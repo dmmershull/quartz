@@ -24,7 +24,7 @@ Owners:
 # Poison
 | Item          | Normal Cost | Low Cost | High Cost |
 | ------------- | ----------- | -------- | --------- |
-| Basic Poinson |             |          |           |
+| Basic Poison |             |          |           |
 
 # Tools and Kits
 | Item           | Normal Cost | Low Cost | High Cost |

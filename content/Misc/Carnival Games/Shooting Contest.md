@@ -5,8 +5,8 @@ The shooting contest consists of three rounds of firearms competition. At the en
 	- Round 1
 		- Rifle Shooting (3 Magazines)
 		- Multiple targets are placed on range represented by different commont objects
-			- AC 12: 1 Points, 60 Targets
-			- AC 15: 2 Points, 30 Targets
+			- AC 12: 1 Points, 15 Targets
+			- AC 15: 2 Points, 15 Targets
 			- AC 18: 3 Points, 15 Targets
 	- Round 2
 		- Shotgun Shooting
